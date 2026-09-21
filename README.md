@@ -97,6 +97,7 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" title="Spring Boot"/>
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" alt="Spring Boot" width="50" height="50" title="Spring Security"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachemaven/C71A36">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
@@ -194,7 +195,7 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" title="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50" title="Ubuntu"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
   </picture>
@@ -218,10 +219,11 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 ## 🧪 Testing y Calidad de Código
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" alt="JUnit" width="55" height="55" title="JUnit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube" width="55" height="55" title="SonarQube"/>
+  <img src="https://cdn.simpleicons.org/junit5/25A162" alt="JUnit" width="55" height="55" title="JUnit"/>
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="JUnit" width="55" height="55" title="Spring Test"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg" alt="Jasmine" width="55" height="55" title="Jasmine"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" alt="Karma" width="50" height="50" title="Karma"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarqube.svg" alt="SonarQube" width="55" height="55" title="SonarQube"/>
 </p>
 
 **JUnit · Mockito · Spring Boot Test · Jasmine · Karma · SonarQube**
