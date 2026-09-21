@@ -103,7 +103,7 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apachekafka/231F20">
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
   </picture>
 </p>
 
