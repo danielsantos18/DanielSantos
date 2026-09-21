@@ -97,12 +97,16 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="55" height="55" title="Maven"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachemaven/C71A36">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="55" height="55" title="Maven"/>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="55" height="55" title="Hibernate"/>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apachekafka/231F20">
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apachekafka/231F20">
+    <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
   </picture>
 </p>
 
@@ -133,7 +137,11 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="55" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" title="MongoDB"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" title="MongoDB"/>
+  </picture>
 </p>
 
 **PostgreSQL · MySQL · MongoDB · JDBC**
@@ -143,8 +151,16 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 ## 🔌 APIs e Integraciones
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="55" height="55" title="Swagger"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" alt="OpenAPI" width="55" height="55" title="OpenAPI"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="55" height="55" title="Swagger"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" alt="OpenAPI" width="55" height="55" title="OpenAPI"/>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman"/>
 </p>
 
@@ -176,8 +192,12 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50" title="Ubuntu"//>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50" title="Ubuntu"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
+  </picture>
 </p>
 
 **Docker · Docker Compose · Kubernetes · Nginx · Ubuntu · Linux · VPS · SSL/HTTPS**
@@ -212,7 +232,11 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+  </picture>
 </p>
 
 **Git · GitHub · Branches · Pull Requests · Code Review**
