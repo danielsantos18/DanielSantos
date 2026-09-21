@@ -1,15 +1,296 @@
-<h1 align="center">Hi 👋, I'm Daniel Santos</h1>
-<h3 align="center">Backend Software Engineer | Java & Spring Boot · Angular</h3>
+<h1 align="center">Hola!, soy Daniel Santos</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielsantos18&label=Profile%20views&color=0e75b6&style=flat" alt="danielsantos18" /> </p>
+<h3 align="center">
+Ingeniero de Software | Java & Spring Boot | Angular | Clean Architecture | Clean Code
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/danielsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danielsantos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daniel david santos perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel david santos perez" height="30" width="40" /></a>
+<p align="center">
+Ingeniero de Software enfocado en Backend, con experiencia construyendo aplicaciones web escalables,
+APIs REST, plataformas empresariales y aplicaciones modernas con Angular.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-david-santos-per%C3%A9z-37b275320/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:danielsntos06@gmail.com"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/danielsantos18"><img src="https://img.shields.io/badge/GitHub-danielsantos18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsantos18&show_icons=true&locale=en&layout=compact" alt="danielsantos18" /></p>
+<p align="center">
+  <a href="https://github.com/danielsantos18"><img src="https://img.shields.io/github/followers/danielsantos18?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores"/></a>
+  <img src="https://komarev.com/ghpvc/?username=danielsantos18&label=Visitas%20al%20Perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil"/>
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy **Ingeniero de Software de Cartagena, Colombia**, con experiencia profesional en el desarrollo de aplicaciones empresariales para el mercado colombiano.
+
+Mi principal enfoque es el desarrollo Backend con **Java y Spring Boot**, complementado con experiencia profesional en **Angular** para la construcción de soluciones web completas.
+
+- 💼 Experiencia profesional desarrollando sistemas **POS, contables y de facturación electrónica**
+- ☕ Desarrollo Backend con **Java 8, 17, 21 y Spring Boot**
+- 🌐 Desarrollo Frontend con **Angular 7 y Angular 14–21**
+- 🏗️ Experiencia con **Clean Architecture, Arquitectura Hexagonal, DDD y SOLID**
+- 🔐 Autenticación y autorización con **Spring Security, JWT y OAuth2**
+- 🔌 Desarrollo e integración de **APIs REST**
+- 🗄️ Experiencia con **PostgreSQL, MySQL y MongoDB**
+- 🐳 Despliegues con **Docker, Docker Compose, Nginx y VPS Ubuntu**
+- ☸️ Conocimientos de **Kubernetes**
+- 🧪 Pruebas con **JUnit, Mockito, Spring Boot Test y Jasmine/Karma**
+- 📊 Formación complementaria en **Análisis de Datos**
+- 🇬🇧 Inglés **B2 — Aptis General, British Council**
+
+---
+
+## 🚀 Experiencia Profesional
+
+### 💼 SmartBill Co.
+
+**Ingeniero de Software | Java · Spring Boot · Angular**
+
+Participación en el desarrollo y evolución de software empresarial enfocado en Facturación electrónica y Sistemas de Punto de Venta (POS):
+
+### ☕ Funciones
+
+- Mantenimiento y modernización de aplicaciones Angular legacy
+- Desarrollo de componentes reutilizables
+- Implementación de **Reactive Forms**
+- Formularios y validaciones complejas
+- Integración con **APIs REST**
+- Implementación de **Routing, Guards e Interceptors**
+- Programación reactiva mediante **RxJS**
+- Desarrollo de APIs REST utilizando **Java y Spring Boot**
+- Integración de facturación electrónica con la **DIAN**
+- Generación de documentos electrónicos **UBL 2.1**
+- Implementación de firma digital **XAdES-BES**
+- Integraciones mediante **SOAP y REST**
+- Autenticación mediante **JWT y OAuth2**
+- Desarrollo sobre arquitectura **Multi-Tenant**
+- Migración progresiva hacia **Clean Architecture**
+- Integración con **Google Cloud Document AI**
+- Integración con **WhatsApp Business mediante Twilio**
+- Gestión de datos con **PostgreSQL y MySQL**
+- Contenedorización y despliegue mediante **Docker**
+- Configuración de servidores **Ubuntu VPS**
+- Configuración de **Nginx, SSL y HTTPS**
+
+### 🌐 Sitios web corporativos
+**Ingeniero de Software | Angular**
+
+Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas practicas de arquitectura y programacion.
+
+- Desarrollo y mantenimiento de aplicaciones empresariales con **Angular**
+- Desarrollo de componentes reutilizables
+- Implementación de **Reactive Forms**
+- Formularios y validaciones complejas
+- Implementación de **Routing, Guards e Interceptors**
+- Programación reactiva mediante **RxJS**
+- Desarrollo de interfaces web responsivas
+
+---
+
+# 🛠️ Stack Tecnológico
+
+## ☕ Desarrollo Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="55" height="55" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="55" height="55" title="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
+</p>
+
+**Java 8 · Java 17 · Java 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Maven · Apache Kafka**
+
+---
+
+## 🌐 Desarrollo Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" width="48" height="48" title="SASS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="Angular Material" width="48" height="48" title="Angular Material"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="48" height="48" title="RxJS"/>
+</p>
+
+**Angular · TypeScript · JavaScript · RxJS · Reactive Forms · HTML5 · CSS3 · SCSS · Bootstrap · Angular Material**
+
+---
+
+## 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="55" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" title="MongoDB"/>
+</p>
+
+**PostgreSQL · MySQL · MongoDB · JDBC**
+
+---
+
+## 🔌 APIs e Integraciones
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="55" height="55" title="Swagger"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" alt="OpenAPI" width="55" height="55" title="OpenAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman"/>
+</p>
+
+**REST APIs · SOAP · OpenAPI · Swagger · Postman**
+
+---
+
+## 🏗️ Arquitectura e Ingeniería de Software
+
+`Clean Architecture`
+&nbsp;
+`Arquitectura Hexagonal`
+&nbsp;
+`Domain-Driven Design (DDD)`
+&nbsp;
+`SOLID`
+&nbsp;
+`Clean Code`
+&nbsp;
+`Microservicios`
+&nbsp;
+`Arquitectura Multi-Tenant`
+
+---
+
+## 🐳 DevOps e Infraestructura
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="55" height="55" title="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
+</p>
+
+**Docker · Docker Compose · Kubernetes · Nginx · Ubuntu · Linux · VPS · SSL/HTTPS**
+
+---
+
+## ☁️ Cloud e Integraciones Externas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50" title="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twilio/twilio-original-wordmark.svg" alt="Twilio" width="55" height="55" title="Twilio"/>
+</p>
+
+**Google Cloud · Document AI · Twilio · WhatsApp Business API**
+
+---
+
+## 🧪 Testing y Calidad de Código
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" alt="JUnit" width="55" height="55" title="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube" width="55" height="55" title="SonarQube"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg" alt="Jasmine" width="55" height="55" title="Jasmine"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" alt="Karma" width="50" height="50" title="Karma"/>
+</p>
+
+**JUnit · Mockito · Spring Boot Test · Jasmine · Karma · SonarQube**
+
+---
+
+## 🔀 Control de Versiones
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+</p>
+
+**Git · GitHub · Branches · Pull Requests · Code Review**
+
+---
+
+## 📊 Datos y Analítica
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="Microsoft Excel" width="50" height="50" title="Microsoft Excel"/>
+</p>
+
+**Python · SQL · Power BI · Excel · Análisis de Datos**
+
+---
+
+# 🌟 Proyectos Destacados
+
+## 🧾 SmartBillPOS
+
+Plataforma web empresarial de Punto de Venta (POS) con facturación electrónica bajo estándares de la **DIAN**, gestión de inventarios y módulos contables.
+
+🔗 https://www.smartbill.us/
+
+**Tecnologías:** Java · Spring Boot · Angular · PostgreSQL · MySQL · Docker · Nginx
+
+---
+
+## ⚖️ Legal Group
+
+Sitio web corporativo desarrollado con Angular para una firma de asesorías jurídicas.
+
+### Características
+
+- Arquitectura SPA
+- Componentes Angular reutilizables
+- Diseño responsive
+- Navegación mediante Routing
+- Formularios de contacto
+- Despliegue en producción
+
+🔗 https://www.asesoriaslegalgroup.com/
+
+---
+
+## 🏗️ Castros Ingeniería SAS
+
+Aplicación web corporativa desarrollada con Angular para una empresa de ingeniería y construcción ubicada en Cartagena.
+
+### Características
+
+- Arquitectura modular
+- Interfaz responsive
+- Portafolio de proyectos
+- Pantalla de precarga de marca
+- Componentes reutilizables
+- Despliegue en producción
+
+🔗 https://castroingenieria.vercel.app/
+
+---
+
+# 📊 Datos y Analítica
+
+Además de Ingeniería de Software, continúo fortaleciendo mis conocimientos en **Análisis de Datos**, con especial interés en aplicaciones relacionadas con los sectores **financiero y comercial**.
+
+### Tecnologías y herramientas
+
+`Python` · `SQL` · `Power BI` · `Excel` · `Análisis de Datos`
+
+---
+
+# 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=danielsantos18&theme=default&hide_border=true" alt="Estadísticas de GitHub de Daniel Santos"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Siempre aprendiendo. Siempre construyendo.</i>
+</p>
