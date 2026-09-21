@@ -100,7 +100,11 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="55" height="55" title="Maven"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="55" height="55" title="Hibernate"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=apachekafka&size=96" alt="apachekafka" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apachekafka/231F20">
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="55" height="55" title="Apache Kafka"/>
+  </picture>
 </p>
 
 **Java 8 · Java 17 · Java 21 · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Maven · Apache Kafka**
