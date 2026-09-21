@@ -90,6 +90,62 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 
 ---
 
+# 🌟 Proyectos Destacados
+
+## 🧾 SmartBillPOS
+
+Plataforma web empresarial de Punto de Venta (POS) con facturación electrónica bajo estándares de la **DIAN**, gestión de inventarios y módulos contables.
+
+🔗 https://www.smartbill.us/
+
+**Tecnologías:** Java · Spring Boot · Angular · PostgreSQL · MySQL · Docker · Nginx
+
+---
+
+## ⚖️ Legal Group
+
+Sitio web corporativo desarrollado con Angular para una firma de asesorías jurídicas.
+
+### Características
+
+- Arquitectura SPA
+- Componentes Angular reutilizables
+- Diseño responsive
+- Navegación mediante Routing
+- Formularios de contacto
+- Despliegue en producción
+
+🔗 https://www.asesoriaslegalgroup.com/
+
+---
+
+## 🏗️ Castros Ingeniería SAS
+
+Aplicación web corporativa desarrollada con Angular para una empresa de ingeniería y construcción ubicada en Cartagena.
+
+### Características
+
+- Arquitectura modular
+- Interfaz responsive
+- Portafolio de proyectos
+- Pantalla de precarga de marca
+- Componentes reutilizables
+- Despliegue en producción
+
+🔗 https://castroingenieria.vercel.app/
+
+---
+
+# 📊 Datos y Analítica
+
+Además de Ingeniería de Software, continúo fortaleciendo mis conocimientos en **Análisis de Datos**, con especial interés en aplicaciones relacionadas con los sectores **financiero y comercial**.
+
+### Tecnologías y herramientas
+
+`Python` · `SQL` · `Power BI` · `Excel` · `Análisis de Datos`
+
+---
+
 # 🛠️ Stack Tecnológico
 
 ## ☕ Desarrollo Backend
@@ -241,62 +297,6 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
 </p>
 
 **Python · SQL · Power BI · Excel · Análisis de Datos**
-
----
-
-# 🌟 Proyectos Destacados
-
-## 🧾 SmartBillPOS
-
-Plataforma web empresarial de Punto de Venta (POS) con facturación electrónica bajo estándares de la **DIAN**, gestión de inventarios y módulos contables.
-
-🔗 https://www.smartbill.us/
-
-**Tecnologías:** Java · Spring Boot · Angular · PostgreSQL · MySQL · Docker · Nginx
-
----
-
-## ⚖️ Legal Group
-
-Sitio web corporativo desarrollado con Angular para una firma de asesorías jurídicas.
-
-### Características
-
-- Arquitectura SPA
-- Componentes Angular reutilizables
-- Diseño responsive
-- Navegación mediante Routing
-- Formularios de contacto
-- Despliegue en producción
-
-🔗 https://www.asesoriaslegalgroup.com/
-
----
-
-## 🏗️ Castros Ingeniería SAS
-
-Aplicación web corporativa desarrollada con Angular para una empresa de ingeniería y construcción ubicada en Cartagena.
-
-### Características
-
-- Arquitectura modular
-- Interfaz responsive
-- Portafolio de proyectos
-- Pantalla de precarga de marca
-- Componentes reutilizables
-- Despliegue en producción
-
-🔗 https://castroingenieria.vercel.app/
-
----
-
-# 📊 Datos y Analítica
-
-Además de Ingeniería de Software, continúo fortaleciendo mis conocimientos en **Análisis de Datos**, con especial interés en aplicaciones relacionadas con los sectores **financiero y comercial**.
-
-### Tecnologías y herramientas
-
-`Python` · `SQL` · `Power BI` · `Excel` · `Análisis de Datos`
 
 ---
 
