@@ -173,7 +173,7 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="55" height="55" title="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
 </p>
 
