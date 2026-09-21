@@ -98,12 +98,12 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" title="Spring Boot"/>
   <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" alt="Spring Boot" width="50" height="50" title="Spring Security"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="55" height="55" title="Hibernate"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachemaven/C71A36">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="55" height="55" title="Maven"/>
   </picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="55" height="55" title="Hibernate"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apachekafka/231F20">
@@ -121,15 +121,15 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" title="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="48" height="48" title="RxJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" width="48" height="48" title="SASS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" alt="Angular Material" width="48" height="48" title="Angular Material"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="48" height="48" title="RxJS"/>
 </p>
 
-**Angular · TypeScript · JavaScript · RxJS · Reactive Forms · HTML5 · CSS3 · SCSS · Bootstrap · Angular Material**
+**Angular · TypeScript · JavaScript · RxJS · HTML5 · CSS3 · SCSS · Bootstrap · Angular Material**
 
 ---
 
@@ -141,7 +141,7 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" title="MongoDB"/>
 </p>
 
-**PostgreSQL · MySQL · MongoDB · JDBC**
+**PostgreSQL · MySQL · MongoDB**
 
 ---
 
