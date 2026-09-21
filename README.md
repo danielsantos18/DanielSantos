@@ -164,7 +164,6 @@ Desarrollo como Freelance de sitos web corporativos en Angular aplicando buenas 
   </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman"/>
 </p>
-
 **REST APIs · SOAP · OpenAPI · Swagger · Postman**
 
 ---
